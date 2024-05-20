@@ -10,4 +10,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'coffee_house';
+
+  // Initialization for ES Users
+
+
+
 }

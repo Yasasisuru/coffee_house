@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-nav{
+    background-color:rgb(17, 44, 87) ;
+}
+
+.bg-main{
+    background-color: rgb(217, 192, 162);
+}
+
+.bg-colour{
+    background-color: rgb(234, 219, 200);
+}
+
+
+
+
