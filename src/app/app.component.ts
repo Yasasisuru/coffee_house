@@ -8,7 +8,7 @@ import { HedderComponent } from './hedder/hedder.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet,FooterComponent,HedderComponent],
+  imports: [CommonModule,RouterOutlet,FooterComponent,HedderComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
